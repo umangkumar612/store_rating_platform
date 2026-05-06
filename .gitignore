@@ -47,3 +47,10 @@ pnpm-debug.log*
 *.sqlite
 uploads/
 logs/
+
+.idea
+*.iml
+node_modules
+.env
+dist
+build
