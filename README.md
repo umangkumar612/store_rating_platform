@@ -76,7 +76,7 @@ After seeding, use password `Admin@123` for every demo account.
 
 ## Validation Rules
 
-- Name: 20 to 60 characters
+- Name: 3 to 50 characters
 - Address: maximum 400 characters
 - Password: 8 to 16 characters, at least one uppercase letter and one special character
 - Email: valid email format
