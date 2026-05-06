@@ -1,0 +1,1 @@
+-- Seeded through src/db/seed.js so passwords can be hashed with bcrypt.
