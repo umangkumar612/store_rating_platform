@@ -8,7 +8,6 @@ export const http = axios.create({
 console.log("API URL:", import.meta.env.VITE_API_URL);
 console.log("TIMEOUT:", 60000);
 
-alert("NEW BUILD LOADED");
 
 http.interceptors.request.use((config) => {
     const token = localStorage.getItem("token");
