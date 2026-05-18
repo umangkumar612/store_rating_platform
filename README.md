@@ -1,4 +1,4 @@
-# Store Rating Platform
+<img width="960" height="470" alt="image" src="https://github.com/user-attachments/assets/8cbada61-ec49-4ba3-81fc-a6a40c072619" /># Store Rating Platform
 
 A production-ready full stack application where users rate stores from 1 to 5 stars. It includes role-based dashboards for administrators, normal users, and store owners.
 
@@ -88,7 +88,12 @@ After seeding, use password `Admin@123` for every demo account.
 - [API Endpoints](docs/API_ENDPOINTS.md)
 - [Authentication Flow](docs/AUTH_FLOW.md)
 - [Architecture](docs/ARCHITECTURE.md)
+
+<img width="951" height="482" alt="{FEA879F0-3807-459F-B246-0A14AB88DDFF}" src="https://github.com/user-attachments/assets/102bd445-99d4-47c2-b822-126b8e9962ad" />
+
 - [Professional UI Structure](docs/UI_STRUCTURE.md)
 - [Development Plan](docs/DEVELOPMENT_PLAN.md)
 - [Deployment](docs/DEPLOYMENT.md)
 - [Security and Performance](docs/SECURITY_PERFORMANCE.md)
+
+
